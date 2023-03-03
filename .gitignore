@@ -1,0 +1,4 @@
+# enabling git to ignore all modifications in these files
+.terraform
+.terraform.lock.hcl
+.teeraform.tfstate.backup
